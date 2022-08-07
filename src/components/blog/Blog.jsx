@@ -5,6 +5,7 @@ export default function Blog() {
   return (
     <section id="ourblogs" className="bg-light">
       <div className="container">
+        <h1 className="my-5">Latest Posts</h1>
         <div className="row align-items-center mb-5">
           <div className="col-md-6 order-md-2 wow fadeInRight">
             {/* Blog Content */}

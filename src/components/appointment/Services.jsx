@@ -21,84 +21,80 @@ export default function Services() {
           <div className="col-md-4">
             <div className="feature-item mb-md-0 mb-5">
               <span className="icon">
-                <i aria-hidden="true" className="fas fa-stethoscope"></i>
+                <i aria-hidden="true" className="fa-solid fa-pills"></i>
               </span>
 
               <div className="text feature-txt">
-                <h4 className="feature-heading">Examination of Body</h4>
-                <p>
-                  Phasellus eu scelerisque ligula. Pellentesque sollicitudin
-                  quis orci laoreet vehicula.
-                </p>
+                <h4 className="feature-heading">
+                  Searching and buy drugs online
+                </h4>
               </div>
             </div>
+
             <div className="feature-item mb-md-0 mb-5">
               <span className="icon-2">
-                <i aria-hidden="true" className="fas fa-tint"></i>
+                <i aria-hidden="true" className="fa-solid fa-user-doctor"></i>
               </span>
 
               <div className="text feature-txt">
-                <h4 className="feature-heading">Blood Test</h4>
-                <p>
-                  Duis imperdiet convallis lorem. Sed efficitur lacus eget purus
-                  mattis, ac mollis justo porttitor.
-                </p>
+                <h4 className="feature-heading">
+                  Online doctor consultation and appointment
+                </h4>
               </div>
             </div>
           </div>
+
           <div className="col-md-4">
             <div className="feature-item mb-md-0 mb-5">
               <span className="icon-2">
-                <i aria-hidden="true" className="fas fa-briefcase-medical"></i>
+                <i aria-hidden="true" className="fa-solid fa-calendar"></i>
               </span>
               <div className="text feature-txt">
-                <h4 className="feature-heading">Surgery</h4>
-                <p>
-                  Phasellus eu scelerisque ligula. Pellentesque sollicitudin
-                  quis orci laoreet vehicula.
-                </p>
+                <h4 className="feature-heading">
+                  Booking online private hospitals
+                </h4>
               </div>
             </div>
+
             <div className="feature-item mb-md-0 mb-5">
               <span className="icon">
                 <i aria-hidden="true" className="fas fa-microscope"></i>
               </span>
               <div className="text feature-txt">
-                <h4 className="feature-heading">Dermatology</h4>
-                <p>
-                  Duis imperdiet convallis lorem. Sed efficitur lacus eget purus
-                  mattis, ac mollis justo porttitor.
-                </p>
+                <h4 className="feature-heading">Labratory</h4>
               </div>
             </div>
           </div>
+
           <div className="col-md-4">
             <div className="feature-item mb-md-0 mb-5">
               <span className="icon">
-                <i aria-hidden="true" className="fas fa-syringe"></i>
+                <i aria-hidden="true" className="fa-solid fa-truck-medical"></i>
               </span>
 
               <div className="text feature-txt">
-                <h4 className="feature-heading">Internal Medicine</h4>
-                <p>
-                  Proin feugiat ex pharetra neque vestibulum consectetur. Donec
-                  non turpis et leo luctus.
-                </p>
+                <h4 className="feature-heading">Easy ambulance services</h4>
               </div>
             </div>
             <div className="feature-item">
               <span className="icon-2">
-                <i aria-hidden="true" className="fas fa-heart"></i>
+                <i aria-hidden="true" className="fa-solid fa-bed-pulse"></i>
               </span>
 
               <div className="text feature-txt">
-                <h4 className="feature-heading">Cardio</h4>
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur elit. Curabitur at
-                  blandit duiut consequat ex.
-                </p>
+                <h4 className="feature-heading">Oxygen plants</h4>
               </div>
             </div>
+          </div>
+
+          <div className="d-flex align-items-center">
+            <a
+              href="#"
+              className="btn btn-lg btn-primary mx-auto mt-5"
+              style={{ borderRadius: "50px 50px 50px 50px" }}
+            >
+              see more...
+            </a>
           </div>
         </div>
       </div>

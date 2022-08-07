@@ -52,10 +52,7 @@ export default function Footer() {
               </ul>
             </div>
             <p className="company-about fadeIn theme-dark text-capitalize">
-              © 2020 MegaOne. Made With Love By
-              <a className="theme-dark" href="javascript:void(0);">
-                Themesindustry
-              </a>
+              © 2021 TENAWO. KMS ETH Health Trading S.C
             </p>
           </div>
         </div>

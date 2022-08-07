@@ -16,35 +16,42 @@ export default function Contact() {
               <div className="bg-overlay opacity-8"></div>
               <div className="address-text alt-font text-md-left text-white position-relative wow fadeInUp">
                 <h5 className="mb-3 text-capitalize contact-subtitle font-weight-light">
-                  Lorem ipsum dolor sit amet consectetur
+                  Contact Us
                 </h5>
 
                 {/* title */}
                 <h2 className="mb-4 main-font map-text text-capitalize">
-                  MegaOne Medical
+                  KMS ETH Health Trading S.C
                 </h2>
 
                 {/* Address */}
                 <p className="mb-3">
-                  123 Stree New York City , United States Of America.
+                  Address: Ethiopia, Addis Ababa, Bole Sub-City,Woreda 07, Figa
+                  Mazoria Area, Gebrila Building, Office No. 302
                 </p>
+
+                {/* Short number */}
+                <h1 className="mb-3">9456</h1>
 
                 {/* Phone */}
                 <p className="mb-3">
-                  Office Telephone : 001 01085379709
+                  Office Telephone : +251116683203/04
                   <br />
-                  Mobile : 001 63165370895
+                  Mobile : +251904868788
                 </p>
 
                 {/* Email */}
                 <p className="mb-3">
-                  mail : admin@website.com
+                  mail : KMS@tenawo.com
                   <br />
-                  Inquiries : email@website.com
+                  Inquiries : kmstenawo@gmail.com
                 </p>
 
                 {/* Timing */}
-                <p className="mb-3">Mon-Fri: 9am to 6pm</p>
+                <p className="mb-3">
+                  Our support available to help you 24 hours a day, seven days
+                  week
+                </p>
               </div>
             </div>
           </div>

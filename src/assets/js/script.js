@@ -130,7 +130,7 @@ jQuery(function ($) {
    =================================== */
 
   $("#testimonial_slider").owlCarousel({
-    items: 1,
+    items: 9,
     dots: true,
     nav: false,
     autoplay: true,

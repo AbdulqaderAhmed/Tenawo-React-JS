@@ -19,17 +19,18 @@ export default function Header() {
               <a className="nav-link scroll" href="#home">
                 Home
               </a>
-              <a className="nav-link scroll" href="#whymegaone">
-                Why Tenawo
+              <a className="nav-link scroll" href="#ourblogs">
+                Our Blogs
               </a>
+
               <a className="nav-link scroll" href="#services">
                 Services
               </a>
               <a className="nav-link scroll" href="#testimonial">
-                Testimonials
+                Our Team
               </a>
-              <a className="nav-link scroll" href="#ourblogs">
-                Our Blogs
+              <a className="nav-link scroll" href="#whymegaone">
+                Why Tenawo
               </a>
               <a className="nav-link scroll" href="#contactus">
                 Contact us
@@ -77,7 +78,7 @@ export default function Header() {
               </li>
               <li className="nav-item">
                 <a className="nav-link scroll" href="#testimonial">
-                  Testimonials
+                  Our Team
                 </a>
               </li>
               <li className="nav-item">
