@@ -16,7 +16,7 @@ import RevolutionSlider from "./include/slider/RevolutionSlider";
 function App() {
   return (
     <div className="App">
-      <Loader />
+      {/* <Loader /> */}
       <Header />
       <RevolutionSlider />
       <FeatureBox />
